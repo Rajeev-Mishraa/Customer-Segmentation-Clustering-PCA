@@ -6,7 +6,7 @@ It uses **K-Means Clustering** and **PCA** for visualization to uncover distinct
 ---
 
 ## 📊 Dataset
-**Source:** [Kaggle – Customer Segmentation: Clustering](https://www.kaggle.com/code/rajeevmishraa/customer-segmentation-clustering-pca/notebook)  
+**Source:** [Kaggle – Customer Segmentation: Clustering](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering)  
 **Key Features:**
 - Demographics: `Income`, `Age`, `Family_Members`
 - Behavioral: `Total_Spending`, `Recency`, `Total_Purchase`
